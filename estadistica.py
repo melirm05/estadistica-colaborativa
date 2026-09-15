@@ -2,3 +2,4 @@ datos = [10, 20, 30, 40, 50]
 
 print("Máximo:", max(datos))
 print("Mínimo:", min(datos))
+print("Rango:", max(datos) - min(datos))
