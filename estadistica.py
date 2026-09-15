@@ -5,3 +5,6 @@ print("Suma:", suma)
 
 promedio = sum(datos) / len(datos)
 print("Promedio:", promedio)
+
+conteo = len(datos)
+print("Cantidad de datos:", conteo)
