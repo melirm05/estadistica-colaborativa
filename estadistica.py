@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import numpy as np
 
 # Actividad 2
@@ -42,3 +43,15 @@ print("Mediana de edad:", mediana_edad)
 print("Mediana de ingreso:", mediana_ingreso)
 print("Desviación estándar de edad:", desviacion_edad)
 print("Desviación estándar de ingreso:", desviacion_ingreso)
+=======
+datos = [10, 20, 30, 40, 50]
+
+suma = sum(datos)
+print("Suma:", suma)
+
+promedio = sum(datos) / len(datos)
+print("Promedio:", promedio)
+
+conteo = len(datos)
+print("Cantidad de datos:", conteo)
+>>>>>>> persona-a
